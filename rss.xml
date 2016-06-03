@@ -4,7 +4,7 @@
         <description><![CDATA[imagery]]></description>
         <link>https://thegrid.ai/imagery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 14:20:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/imagery/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,34 +33,6 @@
             <link>https://thegrid.ai/imagery/42e1d982-ca99-4411-88f9-076a2043dbe3/index.html</link>
             <guid isPermaLink="false">42e1d982-ca99-4411-88f9-076a2043dbe3</guid>
             <pubDate>Fri, 03 Jun 2016 10:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23479896-933d-4bab-8e5e-e2f26e513ef8.jpg">]]></description>
-            <link>https://thegrid.ai/imagery/75c530fa-1698-4490-932f-4e1f3e26e659/index.html</link>
-            <guid isPermaLink="false">75c530fa-1698-4490-932f-4e1f3e26e659</guid>
-            <pubDate>Thu, 02 Jun 2016 14:27:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6c15c6c-d278-4b62-b5a8-466dffadad17.jpg">]]></description>
-            <link>https://thegrid.ai/imagery/14a21477-3ead-469e-bd78-b40ec673c318/index.html</link>
-            <guid isPermaLink="false">14a21477-3ead-469e-bd78-b40ec673c318</guid>
-            <pubDate>Thu, 02 Jun 2016 14:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8c47955-bc8d-47e9-96b7-a49bc1dc359f.jpg">]]></description>
-            <link>https://thegrid.ai/imagery/17a6e37a-6449-4325-abf0-ead9e067eadc/index.html</link>
-            <guid isPermaLink="false">17a6e37a-6449-4325-abf0-ead9e067eadc</guid>
-            <pubDate>Thu, 02 Jun 2016 14:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c7ee0a3-3405-46cd-84ee-a90c3e71853c.jpg">]]></description>
-            <link>https://thegrid.ai/imagery/9859cdfc-d5c9-4692-9b7f-b1739f77f9d3/index.html</link>
-            <guid isPermaLink="false">9859cdfc-d5c9-4692-9b7f-b1739f77f9d3</guid>
-            <pubDate>Thu, 02 Jun 2016 14:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
