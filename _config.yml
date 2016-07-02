@@ -1,14 +1,14 @@
-layout_spectrum: 0.1353021019604057
-typography_spectrum: 0.6771554029546678
+layout_spectrum: 0.9341791386250407
+typography_spectrum: 0.2411376372911036
 color:
-  brandStrength: 0.13359673600643873
-  lightness: 0.8265888886526227
-  saturation: 0.34378144703805447
-  rhythmicContrast: 0.5901349135674536
+  brandStrength: 0.914633653126657
+  lightness: 0.7924976388458163
+  saturation: 0.9495995775796473
+  rhythmicContrast: 0.23486750572919846
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
 name: imagery
