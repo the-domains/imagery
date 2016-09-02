@@ -1,16 +1,16 @@
-typography_spectrum: 0.2411376372911036
-color:
-  brandStrength: 0.914633653126657
-  lightness: 0.7924976388458163
-  saturation: 0.9495995775796473
-  rhythmicContrast: 0.23486750572919846
-  brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
 layout_spectrum: 0.9341791386250407
+typography_spectrum: 0.41995157790370286
+color:
+  brandStrength: 0.736185799818486
+  lightness: 0.36045882501639426
+  saturation: 0.26701424131169915
+  rhythmicContrast: 0.35347595415078104
+  brandColors:
+    - '#FEFEFE'
+    - '#D4CECB'
+    - '#B79B60'
+    - '#412E16'
+    - '#917334'
 name: imagery
 title: Imagery
 description: images and more
